@@ -1,23 +1,29 @@
-ддддд111
-Bob Marley1945
-bossfix
-Вацык
-без погоняла
-miryaha
-бип ссср
-ДрынПетрович
-тёртый фраер
-ира1958
-македыч
-андронюс
-витёк 35
-BlackHacker
-NEYDERGIMI
-Dr Schwarz
-Цыган 
-зилик79 
-Тень Калгена
-Vuall 
-Огурец
-ksv197
-Ухажёр
+admin
+Admin
+administrator
+Administrator
+sql
+support
+root
+username
+user
+user1
+user2
+user3
+guest
+login
+local
+qwerty
+q1w2e3
+admins
+administrators
+server
+servers
+mysql
+network
+connect
+system
+system32
+Oleg
+Elena
+Olga
